@@ -1,3 +1,6 @@
+I explained QA-LoRA in this article:
+ [QA-LoRA: Quantization-Aware Fine-tuning for Large Language Models](https://newsletter.kaitchup.com/p/qa-lora-quantization-aware-fine-tuning)
+
 # QA-LoRA
 
 This repository provides the PyTorch implementation of [QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2309.14717.pdf)
